@@ -21,7 +21,7 @@
   /* SSL configuration */
   
   "ssl" : {
-    "enabled" : true,
+    "enabled" : false,
     "key" : "certs/privkey1.pem",
     "cert" : "certs/fullchain1.pem"
   }
